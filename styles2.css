@@ -1,0 +1,56 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+}
+
+.img-yoga {
+    Width: 311,05px;
+    Height: 239px;
+    Margin: 141px auto 0px;
+    display: block;
+}
+
+.statusbar {
+    display: block;
+    margin: 0px auto;
+
+}
+
+.elipsis {
+    display: block;
+    Width: 64px;
+    Height: 10px;
+    margin: 104px auto 0px;
+    color: #323232;
+}
+
+.paragraph {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    white-space: pre-line;
+    color: #000000;
+    margin: 81px 44px 0px 43px;
+}
+
+button {
+    display: block;
+    width: 173px;
+    height: 46px;
+    margin: 74px auto 121px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border: 0px;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    padding: 14px 48px;
+    white-space: nowrap;
+}
